@@ -24,5 +24,5 @@ A modern shopping cart application built with React, featuring product browsing,
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/teddexter0/shoppingCart
 cd shopping-cart# shoppingCart
